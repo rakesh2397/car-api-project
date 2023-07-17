@@ -8,7 +8,7 @@ pipeline{
 	    
                steps{
 		 echo 'cloning..'
-                 git 'https://github.com/akshu20791/DevOpsClassCodes.git'
+                 git ''https://github.com/rakesh2397/car-api-project/blob/master/jenkinsfile
               }
           }
           stage('Compile'){
